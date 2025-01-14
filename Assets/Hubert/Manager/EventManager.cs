@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Src.Manager
+namespace Hubert.Manager
 {
     public class EventManager : MonoBehaviour
     {

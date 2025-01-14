@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Src.Manager
+namespace Hubert.Manager
 {
     public class GameManager : MonoBehaviour
     {
